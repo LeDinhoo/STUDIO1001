@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.3",
+    "tailwindcss-animated": "^1.0.1"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.18",
+    "flowbite": "^2.3.0"
+  }
+}
